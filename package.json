@@ -1,0 +1,23 @@
+{
+  "name": "luisbot",
+  "version": "1.0.0",
+  "description": "Train Bot using Microsoft Luis",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "botbuilder": "^3.13.1",
+    "botbuilder-azure": "^3.0.4",
+    "indian-cities-database": "^1.0.4",
+    "request": "^2.83.0",
+    "restify": "^5.0.0"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "zip-folder": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mubashshir Mohammed A",
+  "license": "ISC"
+}
